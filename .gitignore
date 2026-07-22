@@ -1,0 +1,55 @@
+.env
+/OWNPaymentProcessing
+/build/
+/Register.xcodeproj/xcuserdata/
+/Register.xcodeproj/project.xcworkspace/xcuserdata/
+/lib/Epson/*
+.DS_Store
+.vscode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+profile
+*.moved-aside
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+
+.env
+Register/App/AppSecrets.swift
+
+fastlane/test_output
+fastlane/README.md
+fastlane/report.xml
+fastlane/.env
+Register.ipa
+Register.app.dSYM.zip
+
+Register/Model manager/Generated files/*
+/default.profraw
+.build-warnings
+/.expected-warnings
+
+**/.terraform/**
+**/.terraform.lock.hcl
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+
+# Claude Code
+CLAUDE.local.md
+CHANGELOG*.md
+settings.local.json
+
+# Python bytecode cache
+__pycache__/
+*.pyc
