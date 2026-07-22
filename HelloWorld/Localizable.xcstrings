@@ -2,22 +2,64 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Bye again!" : {
-
+      "localizations" : {
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Bye again!"
+          }
+        }
+      }
     },
     "Bye!" : {
-
+      "localizations" : {
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Bye!"
+          }
+        }
+      }
     },
     "Hello, world!" : {
-
+      "localizations" : {
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Hello, world!"
+          }
+        }
+      }
     },
     "Still There!" : {
-
+      "localizations" : {
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Still There!"
+          }
+        }
+      }
     },
     "Why are you asking?" : {
-
+      "localizations" : {
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por qué preguntas?"
+          }
+        }
+      }
     },
     "Yes I am STILL THERE!" : {
-
+      "localizations" : {
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Yes I am STILL THERE!"
+          }
+        }
+      }
     }
   },
   "version" : "1.1"
