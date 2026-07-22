@@ -1,8 +1,8 @@
 .env
 /OWNPaymentProcessing
 /build/
-/Register.xcodeproj/xcuserdata/
-/Register.xcodeproj/project.xcworkspace/xcuserdata/
+/HelloWorld.xcodeproj/xcuserdata/
+/HelloWorld.xcodeproj/project.xcworkspace/xcuserdata/
 /lib/Epson/*
 .DS_Store
 .vscode
