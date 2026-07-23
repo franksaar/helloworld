@@ -13,6 +13,12 @@
     },
     "Bye!" : {
       "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tschuess"
+          }
+        },
         "es-US" : {
           "stringUnit" : {
             "state" : "needs_review",
