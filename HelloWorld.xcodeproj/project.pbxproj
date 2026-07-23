@@ -194,6 +194,7 @@
 				Base,
 				es,
 				de,
+				"de-DE",
 			);
 			mainGroup = 9983953F3011129D00A7E61F;
 			minimizedProjectReferenceProxies = 1;
