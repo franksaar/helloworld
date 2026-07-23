@@ -4,18 +4,21 @@
     "Always concerned" : {
 
     },
+    "And gone again" : {
+
+    },
     "Bye again!" : {
       "localizations" : {
-        "es-US" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Adiós de nuevo!"
-          }
-        },
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tschüss wieder!"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Adiós de nuevo!"
           }
         }
       }
@@ -38,16 +41,16 @@
     },
     "Hello, world!" : {
       "localizations" : {
-        "es-US" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Hola, mundo!"
-          }
-        },
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hallo, Welt!"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Hola, mundo!"
           }
         }
       }
@@ -57,16 +60,16 @@
     },
     "I am just concerned" : {
       "localizations" : {
-        "es-US" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Solo estoy preocupado"
-          }
-        },
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ich bin nur besorgt."
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo estoy preocupado"
           }
         }
       }
@@ -76,48 +79,48 @@
     },
     "Still There!" : {
       "localizations" : {
-        "es-US" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Todavía ahí!"
-          }
-        },
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Noch da!"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Todavía ahí!"
           }
         }
       }
     },
     "Why are you asking?" : {
       "localizations" : {
-        "es-US" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Por qué preguntas?"
-          }
-        },
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Warum fragst du?"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por qué preguntas?"
           }
         }
       }
     },
     "Yes I am STILL THERE!" : {
       "localizations" : {
-        "es-US" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¡Sí, todavía estoy ahí!"
-          }
-        },
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ja ich bin noch da!"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Sí, todavía estoy ahí!"
           }
         }
       }
