@@ -82,7 +82,20 @@
       }
     },
     "call me when you're ready" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruf mich an, wenn du bereit bist."
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "llámame cuando estés listo"
+          }
+        }
+      }
     },
     "Farewell, my friend" : {
       "localizations" : {
