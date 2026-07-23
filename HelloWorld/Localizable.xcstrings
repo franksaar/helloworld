@@ -5,8 +5,8 @@
       "localizations" : {
         "es-US" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bye again!"
+            "state" : "translated",
+            "value" : "¡Adiós de nuevo!"
           }
         }
       }
@@ -21,8 +21,8 @@
         },
         "es-US" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bye!"
+            "state" : "translated",
+            "value" : "¡Adiós!"
           }
         }
       }
@@ -31,8 +31,8 @@
       "localizations" : {
         "es-US" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Hello, world!"
+            "state" : "translated",
+            "value" : "¡Hola, mundo!"
           }
         }
       }
@@ -51,8 +51,8 @@
       "localizations" : {
         "es-US" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Still There!"
+            "state" : "translated",
+            "value" : "¡Todavía ahí!"
           }
         }
       }
@@ -71,8 +71,8 @@
       "localizations" : {
         "es-US" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Yes I am STILL THERE!"
+            "state" : "translated",
+            "value" : "¡Sí, todavía estoy ahí!"
           }
         }
       }
