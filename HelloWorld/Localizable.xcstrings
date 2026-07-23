@@ -42,6 +42,9 @@
     "C u next time" : {
 
     },
+    "Farewell, my friend" : {
+
+    },
     "Hello, world!" : {
       "localizations" : {
         "de-DE" : {
@@ -81,9 +84,6 @@
       }
     },
     "I haven't seen you in a long time" : {
-
-    },
-    "I see you when I see you" : {
 
     },
     "Not too bad, yourself" : {
