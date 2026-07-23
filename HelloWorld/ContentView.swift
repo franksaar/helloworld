@@ -21,6 +21,7 @@ struct ContentView: View {
             Text("Why are you asking?")
             Text("I am just concerned")
             Text("Always concerned")
+            Text("So, never mind")
         }
         .padding()
     }
