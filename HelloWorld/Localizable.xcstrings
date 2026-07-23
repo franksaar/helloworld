@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Always concerned" : {
+
+    },
     "Bye again!" : {
       "localizations" : {
         "es-US" : {
@@ -49,6 +52,9 @@
         }
       }
     },
+    "I am back" : {
+
+    },
     "I am just concerned" : {
       "localizations" : {
         "es-US" : {
@@ -64,6 +70,9 @@
           }
         }
       }
+    },
+    "So, never mind" : {
+
     },
     "Still There!" : {
       "localizations" : {
