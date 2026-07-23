@@ -2,10 +2,36 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Always concerned" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Immer besorgt"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siempre preocupado"
+          }
+        }
+      }
     },
     "And gone again" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Und wieder weg"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Y se ha ido de nuevo"
+          }
+        }
+      }
     },
     "Bye again!" : {
       "localizations" : {
@@ -40,10 +66,36 @@
       }
     },
     "C u next time" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bis zum nächsten Mal"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nos vemos la próxima"
+          }
+        }
+      }
     },
     "Farewell, my friend" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leb wohl, mein Freund"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adiós, mi amigo"
+          }
+        }
+      }
     },
     "Hello, world!" : {
       "localizations" : {
@@ -62,10 +114,36 @@
       }
     },
     "How have you been?" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wie geht es dir?"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cómo has estado?"
+          }
+        }
+      }
     },
     "I am back" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin zurück"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estoy de vuelta"
+          }
+        }
+      }
     },
     "I am just concerned" : {
       "localizations" : {
@@ -84,13 +162,52 @@
       }
     },
     "I haven't seen you in a long time" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich habe dich lange nicht gesehen"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hace mucho que no te veo"
+          }
+        }
+      }
     },
     "Not too bad, yourself" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht schlecht, und du?"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No muy mal, ¿y tú?"
+          }
+        }
+      }
     },
     "So, never mind" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Also, vergiss es"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Así que, no importa"
+          }
+        }
+      }
     },
     "Still There!" : {
       "localizations" : {
