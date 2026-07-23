@@ -2,7 +2,20 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Always concerned" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Immer besorgt"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siempre preocupado"
+          }
+        }
+      }
     },
     "Bye again!" : {
       "localizations" : {
@@ -10,6 +23,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Adiós de nuevo!"
+          }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tschüss wieder!"
           }
         }
       }
@@ -19,7 +38,7 @@
         "de-DE" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tschuess"
+            "value" : "Tschüss!"
           }
         },
         "es-US" : {
@@ -37,11 +56,30 @@
             "state" : "translated",
             "value" : "¡Hola, mundo!"
           }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hallo, Welt!"
+          }
         }
       }
     },
     "I am back" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin zurück"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estoy de vuelta"
+          }
+        }
+      }
     },
     "I am just concerned" : {
       "localizations" : {
@@ -50,11 +88,30 @@
             "state" : "translated",
             "value" : "Solo estoy preocupado"
           }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich bin nur besorgt."
+          }
         }
       }
     },
     "So, never mind" : {
-
+      "localizations" : {
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Also, vergiss es"
+          }
+        },
+        "es-US" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Así que, no importa"
+          }
+        }
+      }
     },
     "Still There!" : {
       "localizations" : {
@@ -62,6 +119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Todavía ahí!"
+          }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch da!"
           }
         }
       }
@@ -73,6 +136,12 @@
             "state" : "translated",
             "value" : "Por qué preguntas?"
           }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warum fragst du?"
+          }
         }
       }
     },
@@ -82,6 +151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Sí, todavía estoy ahí!"
+          }
+        },
+        "de-DE" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ja ich bin noch da!"
           }
         }
       }
