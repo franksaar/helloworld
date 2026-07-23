@@ -39,6 +39,9 @@
         }
       }
     },
+    "C u next time" : {
+
+    },
     "Hello, world!" : {
       "localizations" : {
         "de-DE" : {
@@ -73,6 +76,9 @@
           }
         }
       }
+    },
+    "I haven't seen you in a long time" : {
+
     },
     "So, never mind" : {
 
